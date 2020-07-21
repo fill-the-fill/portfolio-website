@@ -1,0 +1,23 @@
+{
+  "name": "complete-single-page-corporate-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fill-the-fill/portfolio-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fill-the-fill/portfolio-website/issues"
+  },
+  "homepage": "https://github.com/fill-the-fill/portfolio-website#readme"
+}
